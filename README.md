@@ -34,7 +34,7 @@ print("Swapped values are:",num1,num2)
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed.
 
 
 
